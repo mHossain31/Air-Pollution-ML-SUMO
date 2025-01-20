@@ -57,5 +57,6 @@ Ensure you have the following installed:
 - **Mohammed Y Hossein**
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under New York Institute of Technology.
+- Engineering & Computing Sciences
 
