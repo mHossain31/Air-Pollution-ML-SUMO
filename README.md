@@ -44,10 +44,10 @@ Ensure you have the following installed:
 
 ## Sample Visualizations
 ### Traffic Emissions over Time
-![Traffic Emissions](notebook_images/plot_1.png)
+![Traffic Emissions](notebook_images/plot_2.png)
 
 ### NOx Concentration Map
-![NOx Concentration](notebook_images/plot_2.png)
+![NOx Concentration](notebook_images/plot_1.png)
 
 ### Predicted vs Actual Pollution Levels
 ![Prediction Accuracy](notebook_images/plot_3.png)
